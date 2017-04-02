@@ -18,7 +18,7 @@
         border-color: #000;
         padding: 10px;
         background-color: #EFE">
-        <form method="post" action="URI">
+        <form method="post" action="http://localhost/web_test/send.php">
             <b>chat</b> </br>
             <table>
                 <tr>
